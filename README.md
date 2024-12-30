@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm IFLyer! 👋
 
-<!--
-**IFLyer/IFLyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=IFLyer&color=blue)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer with a keen interest in software development and open-source contributions. I enjoy learning new technologies and sharing knowledge with the community.
+
+## GitHub Stats
+
+![IFLyer's GitHub stats](https://github-readme-stats.vercel.app/api?username=IFLyer&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IFLyer&layout=compact&theme=radical)
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/iflyer/)
